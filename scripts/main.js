@@ -1,3 +1,4 @@
+/* Hola Nikito! */
 let myImage = document.querySelector('img');
 
 myImage.onclick = function() { /*Funcion para cambiar imagen */
